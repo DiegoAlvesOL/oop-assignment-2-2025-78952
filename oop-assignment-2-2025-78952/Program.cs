@@ -27,22 +27,7 @@ class Program
             {
                 ExamQuestion_1.Run();
             }
-            // else if (opcao == "2")
-            // {
-            //     ExamQuestion_2.Run();
-            // }
-            // else if (opcao == "3")
-            // {
-            //     ExamQuestion_3.Run();
-            // }
-            // else if (opcao == "4")
-            // {
-            //     ExamQuestion_4.Run();
-            // }
-            // else if (opcao == "5")
-            // {
-            //     ExamQuestion_5.Run();
-            // }
+           
             else if (opcao == "0")
             {
                 Console.WriteLine("Thank you for using this program...");
