@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Arquivo: Program.cs
+
+using System;
 using oop_assignment_2_2025_78952.ExamQuestions; // <-- importa o namespace das questões
 
 class Program
@@ -27,7 +29,25 @@ class Program
             {
                 ExamQuestion_1.Run();
             }
-           
+            else if (opcao == "2")
+            { 
+                ExamQuestion_2.Run(); 
+            }
+            // else if (opcao == "3")
+            // {
+            //     // Chamada da Questão 3 (será implementada)
+            //     ExamQuestion_3.Run();
+            // }
+            // else if (opcao == "4")
+            // {
+            //     // Chamada da Questão 4 (será implementada)
+            //     ExamQuestion_4.Run();
+            // }
+            // else if (opcao == "5")
+            // {
+            //     // Chamada da Questão 5 (será implementada)
+            //     ExamQuestion_5.Run();
+            // }
             else if (opcao == "0")
             {
                 Console.WriteLine("Thank you for using this program...");

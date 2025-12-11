@@ -12,3 +12,4 @@
 /Users/diego/Documents/Playground/C#/oop-assignment-2-2025-78952/oop-assignment-2-2025-78952/obj/Debug/net9.0/oop-assignment-2-2025-78952.pdb
 /Users/diego/Documents/Playground/C#/oop-assignment-2-2025-78952/oop-assignment-2-2025-78952/obj/Debug/net9.0/oop-assignment-2-2025-78952.genruntimeconfig.cache
 /Users/diego/Documents/Playground/C#/oop-assignment-2-2025-78952/oop-assignment-2-2025-78952/obj/Debug/net9.0/ref/oop-assignment-2-2025-78952.dll
+/Users/diego/Documents/Playground/C#/oop-assignment-2-2025-78952/oop-assignment-2-2025-78952/obj/Debug/net9.0/oop-assignment-2-2025-78952.sourcelink.json
