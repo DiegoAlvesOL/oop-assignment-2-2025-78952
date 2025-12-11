@@ -2,7 +2,6 @@ namespace oop_assignment_2_2025_78952.Models
 {
     public class Q1B_DiscountCalculator
     {
-        // Refatoração usando a estrutura básica if/else if/else, mais simples para iniciantes.
         public int GetDiscountPercentage(int membershipLevel)
         {
             if (membershipLevel == 1)

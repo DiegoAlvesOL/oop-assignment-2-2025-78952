@@ -21,16 +21,16 @@ public static class ExamQuestion_2
         Console.WriteLine($"Try: Divide({num1}, {num2})");
         Console.WriteLine($"Result: {exceptionHandler.Divide(num1, num2)}");
 
-        
+        // Example - invalid number  
         int num3 = 10;
         int num4 = 0;
         Console.WriteLine($"Try: Divide({num3}, {num4})");
         Console.WriteLine($"Result: {exceptionHandler.Divide(num3, num4)}");
 
 
-        // ----------------------------------------------------
+        // -----------------------------------
         // Q2.B: String to Int Conversion
-        // ----------------------------------------------------
+        // -----------------------------------
         Console.WriteLine("\n--- 2.B: String to Int Format Exception ---");
         
         // Example 1: Valid conversion
@@ -39,15 +39,15 @@ public static class ExamQuestion_2
         Console.WriteLine($"Result: {exceptionHandler.ConvertToInt(s1)}");
 
         // Example 2: Invalid conversion
-        string s2 = "abc";
+        string s2 = "abcd";
         Console.WriteLine($"Try: ConvertToInt(\"{s2}\")");
         Console.WriteLine($"Result: {exceptionHandler.ConvertToInt(s2)}");
 
 
-        // ----------------------------------------------------
+        // -------------------------------------
         // Q2.C: Argument Out Of Range Exception
-        // ----------------------------------------------------
-        Console.WriteLine("\n--- 2.C: Register User (ArgumentOutOfRangeException) ---");
+        // -------------------------------------
+        Console.WriteLine("\n--- 2.C: Register User ArgumentOutOfRangeException ---");
         
         // Example 1: Valid age
         int age1 = 38;
