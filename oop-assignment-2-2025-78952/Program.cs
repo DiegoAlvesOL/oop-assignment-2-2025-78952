@@ -33,11 +33,10 @@ class Program
             { 
                 ExamQuestion_2.Run(); 
             }
-            // else if (opcao == "3")
-            // {
-            //     // Chamada da Questão 3 (será implementada)
-            //     ExamQuestion_3.Run();
-            // }
+            else if (opcao == "3")
+            { 
+                ExamQuestion_3.Run();
+            }
             // else if (opcao == "4")
             // {
             //     // Chamada da Questão 4 (será implementada)
