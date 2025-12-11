@@ -1,0 +1,14 @@
+/Users/diego/Documents/Playground/C#/oop-assignment-2-2025-78952/oop-assignment-2-2025-78952/obj/Debug/net9.0/oop-assignment-2-2025-78952.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diego/Documents/Playground/C#/oop-assignment-2-2025-78952/oop-assignment-2-2025-78952/obj/Debug/net9.0/oop-assignment-2-2025-78952.AssemblyInfoInputs.cache
+/Users/diego/Documents/Playground/C#/oop-assignment-2-2025-78952/oop-assignment-2-2025-78952/obj/Debug/net9.0/oop-assignment-2-2025-78952.AssemblyInfo.cs
+/Users/diego/Documents/Playground/C#/oop-assignment-2-2025-78952/oop-assignment-2-2025-78952/obj/Debug/net9.0/oop-assignment-2-2025-78952.csproj.CoreCompileInputs.cache
+/Users/diego/Documents/Playground/C#/oop-assignment-2-2025-78952/oop-assignment-2-2025-78952/bin/Debug/net9.0/oop-assignment-2-2025-78952
+/Users/diego/Documents/Playground/C#/oop-assignment-2-2025-78952/oop-assignment-2-2025-78952/bin/Debug/net9.0/oop-assignment-2-2025-78952.deps.json
+/Users/diego/Documents/Playground/C#/oop-assignment-2-2025-78952/oop-assignment-2-2025-78952/bin/Debug/net9.0/oop-assignment-2-2025-78952.runtimeconfig.json
+/Users/diego/Documents/Playground/C#/oop-assignment-2-2025-78952/oop-assignment-2-2025-78952/bin/Debug/net9.0/oop-assignment-2-2025-78952.dll
+/Users/diego/Documents/Playground/C#/oop-assignment-2-2025-78952/oop-assignment-2-2025-78952/bin/Debug/net9.0/oop-assignment-2-2025-78952.pdb
+/Users/diego/Documents/Playground/C#/oop-assignment-2-2025-78952/oop-assignment-2-2025-78952/obj/Debug/net9.0/oop-assignment-2-2025-78952.dll
+/Users/diego/Documents/Playground/C#/oop-assignment-2-2025-78952/oop-assignment-2-2025-78952/obj/Debug/net9.0/refint/oop-assignment-2-2025-78952.dll
+/Users/diego/Documents/Playground/C#/oop-assignment-2-2025-78952/oop-assignment-2-2025-78952/obj/Debug/net9.0/oop-assignment-2-2025-78952.pdb
+/Users/diego/Documents/Playground/C#/oop-assignment-2-2025-78952/oop-assignment-2-2025-78952/obj/Debug/net9.0/oop-assignment-2-2025-78952.genruntimeconfig.cache
+/Users/diego/Documents/Playground/C#/oop-assignment-2-2025-78952/oop-assignment-2-2025-78952/obj/Debug/net9.0/ref/oop-assignment-2-2025-78952.dll

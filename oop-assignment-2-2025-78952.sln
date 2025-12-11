@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop-assignment-2-2025-78952", "oop-assignment-2-2025-78952\oop-assignment-2-2025-78952.csproj", "{99864AF1-A478-440D-868D-7E387B4363B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam.Tests", "Exam.Tests\Exam.Tests.csproj", "{8B82397C-DAEA-4054-8AFA-E8276853C13C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99864AF1-A478-440D-868D-7E387B4363B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99864AF1-A478-440D-868D-7E387B4363B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99864AF1-A478-440D-868D-7E387B4363B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99864AF1-A478-440D-868D-7E387B4363B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B82397C-DAEA-4054-8AFA-E8276853C13C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B82397C-DAEA-4054-8AFA-E8276853C13C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B82397C-DAEA-4054-8AFA-E8276853C13C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B82397C-DAEA-4054-8AFA-E8276853C13C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
