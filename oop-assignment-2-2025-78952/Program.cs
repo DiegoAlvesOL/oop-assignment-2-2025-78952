@@ -41,11 +41,10 @@ class Program
             {
                 ExamQuestion_4.Run();
             }
-            // else if (opcao == "5")
-            // {
-            //     // Chamada da Questão 5 (será implementada)
-            //     ExamQuestion_5.Run();
-            // }
+            else if (opcao == "5")
+            {
+                ExamQuestion_5.Run();
+            }
             else if (opcao == "0")
             {
                 Console.WriteLine("Thank you for using this program...");
